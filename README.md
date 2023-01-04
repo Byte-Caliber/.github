@@ -1,2 +1,2 @@
 # .github
-Experimenting with web technologies is what we do.
+Experimenting with web technologies.
